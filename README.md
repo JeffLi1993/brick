@@ -4,5 +4,5 @@
 
 ## 微信扫一扫下面图片二维码
 
-![file](https://cdn.bysocket.com/youxi/brick/brick-game.png)
+![file](https://cdn.bysocket.com/youxi/brick/brick-game-qr.png)
 
